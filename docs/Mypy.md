@@ -1,3 +1,5 @@
+# Mypy
+
 [Mypy](https://mypy.readthedocs.io/en/stable/) is a static type checker for Python and is used in all of our Python projects as a [reusable action](https://github.com/ASFHyP3/actions/blob/main/.github/workflows/reusable-mypy.yml).
 
 You can find our currently recommended config options [here](https://github.com/ASFHyP3/actions/#reusable-mypyyml).
